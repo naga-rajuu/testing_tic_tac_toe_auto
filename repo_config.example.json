@@ -1,0 +1,8 @@
+{
+  "github_owner": "naga-rajuu",
+  "github_repo": "testing_tic_tac_toe_auto",
+  "repo_visibility": "public",
+  "github_token_env": "GITHUB_TOKEN",
+  "local_base_dir": "C:\\Users\\marup\\Downloads",
+  "model": "llama3:latest"
+}
